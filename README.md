@@ -1,6 +1,6 @@
 # Colorful Clock
 
-Welcome to Colorful Clock!
+Welcome to the Colorful Clock!
 
 This clock was created as part of the Flutter Clock Challenge as seen here [flutter.dev/clock](https://flutter.dev/clock).
 
@@ -8,7 +8,17 @@ Colorful clock can show Time, Location, Weather Condition, date and day of the w
 
 It runs better on the devices with aspect ratio of 5:3 in landscape mode even though it can run on any flutter cabable device.
 
-The clock has light and dark theme as seen in the gif below:
+## Modes
+Here are the snapshots for the two modes the clock supports:
+1. Dark Mode
+
+<img src='colorful_clock/colorful_clock_dark.png' width='350'>
+
+2. Light Mode
+
+<img src='colorful_clock/colorful_clock_light.png' width='350'>
+
+The two mdoes can be demostrated using the gif image below:
 
 <img src='colorful_clock/colorful_clock_showcase.gif' width='350'>
 
