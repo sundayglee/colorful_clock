@@ -26,11 +26,11 @@ The two mdoes can be demostrated using the gif image below:
 ## Usage
 To run the clock, do the following:
 
-1. Download the [Colorful Clock Github repo](https://flutter.dev/clock) using `git clone`
+1. Download the [Colorful Clock Github repo](https://flutter.dev/clock) using `git clone https://github.com/sundayglee/colorful_clock`
 2. Open the downloaded folder in your IDE
 3. Run the following commands inside the Colorful Clock Cloned folder to get it to work
     ```
-    flutter channle stable
+    flutter channel stable
     flutter upgrade
     cd colorful_clock
     flutter create .
